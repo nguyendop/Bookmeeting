@@ -11,7 +11,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.env
+BookMeeting/.env
 .Python
 build/
 develop-eggs/
@@ -94,7 +94,7 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
+BookMeeting/.env
 .venv
 env/
 venv/
